@@ -13,4 +13,4 @@ Welcome to my wonderous github page! *(don't get lost in my "spaghetti code" - [
 
 ### Checkout the cool languages i use! 
 
-![Top Langs](https://github-readme-stats-git-master-mateidragonys-projects.vercel.app/api/top-langs/?username=mateidragony&theme=github_dark_dimmed&layout=donut&size_weight=0.5&count_weight=0.5&exclude_repo=B351-Final-Project&hide=assembly&langs_count=5)
+![Top Langs](https://github-readme-stats-git-master-mateidragonys-projects.vercel.app/api/top-langs/?username=mateidragony&theme=github_dark_dimmed&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=B351-Final-Project&hide=assembly&langs_count=5)
